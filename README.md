@@ -1,15 +1,3 @@
-<div align="center">
-
-# Hi there! I'm Solsynx (小杨同学) 👋
-
-### 全栈开发者 | 开源爱好者 | 技术探索者
-
-![Profile Views](https://komarev.com/ghpvc/?username=solsynx&color=0e75b6&style=flat)
-
-</div>
-
----
-
 ## 🎯 关于我
 
 热爱编程的开发者，专注于构建可扩展的 Web 应用和探索前沿技术。我喜欢通过代码将想法变为现实，并积极参与开源社区。
