@@ -13,8 +13,9 @@ baseurl: ""
 url: "https://solsynx.com"
 
 # Build settings
-# 推荐使用 jekyll-theme-cayman - 干净优雅，适合个人开发者主页和项目展示
-theme: jekyll-theme-cayman
+# 使用 minimal-mistakes 主题 - 功能丰富，适合个人主页和作品集
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
 
 # Author information
 author:
@@ -30,6 +31,7 @@ social:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 # Exclude from processing
 exclude:
@@ -54,4 +56,16 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: default
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
