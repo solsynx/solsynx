@@ -1,0 +1,54 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: solsynx
+description: >-
+  全栈开发者 - 专注于构建可扩展的 Web 应用和云原生解决方案
+baseurl: ""
+url: "https://solsynx.com"
+
+# Build settings
+# 推荐使用 jekyll-theme-cayman - 干净优雅，适合个人开发者主页和项目展示
+theme: jekyll-theme-cayman
+
+# Author information
+author:
+  name: 小杨同学
+  email: xy.0520@hotmail.com
+  
+# Social links (shown in footer)
+social:
+  github: solsynx
+  email: xy.0520@hotmail.com
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .idea
+
+# Markdown processor
+markdown: kramdown
+
+# Permalink structure
+permalink: pretty
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
