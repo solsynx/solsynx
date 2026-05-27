@@ -6,10 +6,9 @@ header:
   overlay_filter: "0.5"
   caption: "全栈开发者 | 云原生爱好者 | 开源贡献者"
 excerpt: "专注于构建可扩展的 Web 应用和云原生解决方案，热爱技术，追求代码之美"
-author_profile: true
 ---
 
-## 🎯 关于我
+## 👋 关于我
 
 你好！我是**小杨同学**，一名热爱编程的全栈开发者。我专注于构建高性能、可扩展的 Web 应用，并积极探索云原生技术和前沿科技。
 
@@ -21,12 +20,6 @@ author_profile: true
 - 🌱 **持续学习**: 高级系统架构设计、AI 集成与应用
 - 💡 **技术热情**: 微服务架构、云计算平台、DevOps 自动化
 - 🌍 **地理位置**: 中国
-
-### 📬 联系方式
-
-- 📧 **邮箱**: [xy.0520@hotmail.com](mailto:xy.0520@hotmail.com)
-- 💻 **GitHub**: [@solsynx](https://github.com/solsynx)
-- 🌐 **网站**: [solsynx.com](https://solsynx.com)
 
 ## 🛠️ 技术栈
 
