@@ -42,6 +42,9 @@ exclude:
 
 # Markdown processor
 markdown: kramdown
+kramdown:
+  parse_block_html: true
+  input: GFM
 
 # Permalink structure
 permalink: pretty
