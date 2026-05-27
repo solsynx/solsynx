@@ -6,31 +6,7 @@ header:
   overlay_filter: "0.5"
   caption: "全栈开发者 | 云原生爱好者 | 开源贡献者"
 excerpt: "构建可扩展的 Web 应用和云原生解决方案"
-feature_row:
-  - image_path: /assets/images/placeholder.png
-    alt: "Web 开发"
-    title: "Web 应用开发"
-    excerpt: "构建可扩展的现代 Web 应用，专注于用户体验和性能优化"
-    url: "#projects"
-    btn_class: "btn--primary"
-    btn_label: "了解更多"
-  - image_path: /assets/images/placeholder.png
-    alt: "云原生"
-    title: "云原生解决方案"
-    excerpt: "利用 Docker、Kubernetes 等技术开发和部署云原生应用"
-    url: "#tech-stack"
-    btn_class: "btn--primary"
-    btn_label: "技术栈"
-  - image_path: /assets/images/placeholder.png
-    alt: "开源"
-    title: "开源贡献"
-    excerpt: "积极参与开源社区，分享知识和代码"
-    url: "https://github.com/solsynx"
-    btn_class: "btn--primary"
-    btn_label: "GitHub"
 ---
-
-{% include feature_row %}
 
 ## 🎯 关于我
 
